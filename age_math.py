@@ -17,7 +17,7 @@ root.title('Age')
 root.resizable(width=False, height=False)
 root.configure(bg='gray15')
 
-root.iconbitmap(r'age_icon.ico')
+root.iconbitmap(r'icon.ico')
 
 
 user_name = StringVar()
